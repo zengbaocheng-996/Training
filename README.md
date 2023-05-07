@@ -1,2 +1,2 @@
-# Training
-训练脚本
+# Training 脚本练习
+
